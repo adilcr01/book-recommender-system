@@ -91,4 +91,4 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 Check out the live demo: 
 http://52.90.15.7:8501/
 
-##### Note: You might expect problem in Safari and Chrome Browser. Use Firefox instead. 
+#### Thankyou
