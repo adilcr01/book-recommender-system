@@ -68,13 +68,14 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 #### Machine Learning Library: Numpy, Pandas, sklearn
 
-## Deployement on Amazon AWS
+## Deployment on Amazon AWS
 
-##### Login or signup in order to create virtual app. You can either connect your github profile or download Heroku cli to manually deploy this project.
+##### Login or signup in order to create virtual app. You can either connect your github profile to clone it or download any cli to manually deploy this project.
 
-![image](https://user-images.githubusercontent.com/93968656/141473301-75af8d20-2cef-4b1e-ab60-3b61c82de37d.png)
+![image](https://user-images.githubusercontent.com/93968656/218164463-e505b522-05a1-4ec6-8339-29cbe8a4f795.png)
 
-##### The next step would be to follow the instruction given in the Heroku Documentation to deploy a web app.
+
+##### The next step would be to follow the instruction given in the AWS Documentation to deploy a web app.
 
 ## How to run the project on local system?
 
