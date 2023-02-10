@@ -68,7 +68,7 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 #### Machine Learning Library: Numpy, Pandas, sklearn
 
-## Deployement on Heroku
+## Deployement on Amazon AWS
 
 ##### Login or signup in order to create virtual app. You can either connect your github profile or download Heroku cli to manually deploy this project.
 
@@ -88,6 +88,6 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 ## Link to the application 
 
 Check out the live demo: 
-https://book-recommender1.herokuapp.com/
+http://52.90.15.7:8501/
 
 ##### Note: You might expect problem in Safari and Chrome Browser. Use Firefox instead. 
