@@ -10,6 +10,8 @@ git clone [YOUR Repository]
 
 yum install python3-pip
 python3 -m pip              To check if pip is installed or not
+
+ls               ----------> to check Repo Name
 cd [YOUR Repository]
 python3 -m pip install -r requirements.txt
 
