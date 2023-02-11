@@ -88,7 +88,9 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 ## Link to the application 
 
-Check out the live demo: 
-http://52.90.15.7:8501/
+Check out the live demo on AWS: 
+[Link](http://52.90.15.7:8501/)
+
+Also deployed on Streamlit: [Link](https://adilcr01-book-recommender-system-app-h7j7de.streamlit.app/)
 
 #### Thankyou
