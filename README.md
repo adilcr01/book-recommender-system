@@ -88,8 +88,10 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 ## Link to the application 
 
-Check out the live demo on AWS: 
+Check out the live demo on AWS: #### Not working
 [Link](http://52.90.15.7:8501/)
+
+Also deoplyed on Render Cloud: [Link](https://book-recommender-system-i3st.onrender.com/)
 
 Also deployed on Streamlit: [Link](https://adilcr01-book-recommender-system-app-h7j7de.streamlit.app/)
 
