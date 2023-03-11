@@ -88,8 +88,9 @@ https://www.kaggle.com/arashnic/book-recommendation-dataset
 
 ## Link to the application 
 
-Check out the live demo on AWS: #### Not working
+Check out the live demo on AWS: 
 [Link](http://52.90.15.7:8501/)
+#### Not working
 
 Also deoplyed on Render Cloud: [Link](https://book-recommender-system-i3st.onrender.com/)
 
